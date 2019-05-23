@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<attack name="Example Game" author="yeet">
+    <file>attack1.txt</file>
+</attack>

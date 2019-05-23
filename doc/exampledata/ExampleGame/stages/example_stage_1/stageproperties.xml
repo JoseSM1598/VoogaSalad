@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<stage name="Example Game" author="yeet">
+    <file>example_stage_1</file>
+</stage>

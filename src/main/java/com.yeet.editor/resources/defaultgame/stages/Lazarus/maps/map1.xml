@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VOOGASalad author="yeet">    <map image="acacia_door_top.png" x="9" y="14"/>
+    <map image="acacia_door_top.png" x="10" y="7"/>
+    <map image="acacia_door_bottom.png" x="12" y="14"/>
+    <map image="acacia_door_top.png" x="13" y="8"/>
+    <map image="acacia_door_bottom.png" x="14" y="4"/>
+    <map image="acacia_door_bottom.png" x="17" y="10"/>
+    <map image="acacia_door_top.png" x="19" y="14"/>
+    <map image="acacia_door_top.png" x="23" y="4"/>
+    <position id="0" x="0" y="0"></position>
+    <position id="1" x="1" y="0"></position>
+    <position id="2" x="2" y="0"></position>
+    <position id="3" x="3" y="0"></position>
+</VOOGASalad>

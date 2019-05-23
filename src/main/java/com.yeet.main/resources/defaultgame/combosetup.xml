@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VOOGASalad author="yeet">
+    <input FIREBALL="ABC" SMASH="AB" />
+    <input FIREBALL="LMN" SMASH="HJ" />
+    <input FIREBALL = "XML" SMASH = "VML"/>
+    <input FIREBALL = "SHOR" SMASH = "SHO"/>
+    <players numPlayers="4"/>
+</VOOGASalad>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VOOGASalad author="yeet">
+    <input DOWN="S" LEFT="A" RIGHT="D" UP="W"/>
+    <input DOWN="L" LEFT="I" RIGHT="P" UP="O"/>
+    <input DOWN="X" LEFT="C" RIGHT="V" UP="Z"/>
+    <input DOWN="G" LEFT="B" RIGHT="N" UP="T"/>
+    <players numPlayers="4"/>
+</VOOGASalad>

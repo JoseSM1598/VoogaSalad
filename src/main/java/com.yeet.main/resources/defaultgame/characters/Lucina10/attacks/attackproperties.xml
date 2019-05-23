@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VOOGASalad author="yeet">
+    <attack name ="run" duration="0.5" count="4" columns="4" offsetX="0" offsetY="0" width="112.0" height="62.0" attackPower="87" inputCombo=""/>
+    <attack name="special" duration="1.0" count="22" columns = "11" offsetX="0" offsetY="64" width="112.0" height="56.0" attackPower="60" inputCombo=""/>
+    <frame number="1" hitXPos="7" hitYPos="7" hitWidth="7" hitHeight="7" hurtXPos="7" hurtYPos="7" hurtWidth="7" hurtHeight="7" fname="run"></frame>
+</VOOGASalad>

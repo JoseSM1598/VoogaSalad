@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VOOGASalad author="yeet">
+    <input A = "JAB" S = "DOWN" W = "UP" D = "RIGHT" B = "SPECIAL"></input>
+
+    <combo AB = "SMASH" ABC = "SHORYUKEN"></combo>
+</VOOGASalad>

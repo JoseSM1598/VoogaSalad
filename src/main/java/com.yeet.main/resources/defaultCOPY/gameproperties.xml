@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<VOOGASalad author="yeet">
+    <file>ExampleGame</file>
+    <volume music="100" sound="100" voice="100"></volume>
+</VOOGASalad>

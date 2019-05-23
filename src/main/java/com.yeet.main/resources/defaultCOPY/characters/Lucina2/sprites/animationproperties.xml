@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VOOGASalad author="yeet">
+    <attack name="run" duration="0.5" count="4" columns="4" offsetX="0" offsetY="0" width="112.0" height="62.0"/>
+    <attack name = "special" duration="1.0" count="22" columns = "11" offsetX="0" offsetY="64" width="112.0" height="56.0"/>
+</VOOGASalad>

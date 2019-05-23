@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<VOOGASalad author="yeet">
+    <file name="acacia_door_bottom.png"></file>
+    <file name="acacia_door_top.png"></file>
+    <file name="acacia_leaves.png"></file>
+    <file name="acacia_log.png"></file>
+    <file name="acacia_log_top.png"></file>
+    <file name="acacia_planks.png"></file>
+    <file name="acacia_sapling.png"></file>
+    <file name="acacia_trapdoor.png"></file>
+    <file name="activator_rail.png"></file>
+    <file name="activator_rail_on.png"></file>
+    <file name="allium.png"></file>
+</VOOGASalad>

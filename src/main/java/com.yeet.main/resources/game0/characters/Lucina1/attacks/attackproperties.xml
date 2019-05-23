@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VOOGASalad author="yeet">
+    <attack attackPower="50.0" columns="11" count="11" duration="2.0" height="60.0" inputCombo="" name="counter" offsetX="6.0" offsetY="640.0" width="61.0"/>
+    <frame fname="counter" hitHeight="264.0" hitWidth="212.0" hitXPos="48.0" hitYPos="31.0" hurtHeight="252.0" hurtWidth="184.0" hurtXPos="65.0" hurtYPos="39.0" number="1"/>
+    <frame fname="counter" hitHeight="265.0" hitWidth="203.0" hitXPos="56.0" hitYPos="31.0" hurtHeight="0.0" hurtWidth="0.0" hurtXPos="0.0" hurtYPos="0.0" number="2"/>
+    <frame fname="counter" hitHeight="263.0" hitWidth="159.0" hitXPos="79.0" hitYPos="32.0" hurtHeight="0.0" hurtWidth="0.0" hurtXPos="0.0" hurtYPos="0.0" number="3"/>
+    <frame fname="counter" hitHeight="255.0" hitWidth="141.0" hitXPos="85.0" hitYPos="44.0" hurtHeight="0.0" hurtWidth="0.0" hurtXPos="0.0" hurtYPos="0.0" number="4"/>
+    <frame fname="counter" hitHeight="271.0" hitWidth="173.0" hitXPos="71.0" hitYPos="25.0" hurtHeight="0.0" hurtWidth="0.0" hurtXPos="0.0" hurtYPos="0.0" number="5"/>
+    <frame fname="counter" hitHeight="285.0" hitWidth="182.0" hitXPos="52.0" hitYPos="11.0" hurtHeight="0.0" hurtWidth="0.0" hurtXPos="0.0" hurtYPos="0.0" number="6"/>
+    <frame fname="counter" hitHeight="274.0" hitWidth="207.0" hitXPos="52.0" hitYPos="22.0" hurtHeight="0.0" hurtWidth="0.0" hurtXPos="0.0" hurtYPos="0.0" number="7"/>
+    <frame fname="counter" hitHeight="267.0" hitWidth="196.0" hitXPos="60.0" hitYPos="29.0" hurtHeight="0.0" hurtWidth="0.0" hurtXPos="0.0" hurtYPos="0.0" number="8"/>
+    <frame fname="counter" hitHeight="272.0" hitWidth="196.0" hitXPos="57.0" hitYPos="21.0" hurtHeight="0.0" hurtWidth="0.0" hurtXPos="0.0" hurtYPos="0.0" number="9"/>
+    <frame fname="counter" hitHeight="264.0" hitWidth="175.0" hitXPos="63.0" hitYPos="29.0" hurtHeight="0.0" hurtWidth="0.0" hurtXPos="0.0" hurtYPos="0.0" number="10"/>
+    <frame fname="counter" hitHeight="268.0" hitWidth="192.0" hitXPos="55.0" hitYPos="21.0" hurtHeight="161.0" hurtWidth="134.0" hurtXPos="86.0" hurtYPos="87.0" number="11"/>
+</VOOGASalad>
